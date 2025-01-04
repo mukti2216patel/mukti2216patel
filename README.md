@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @mukti2216patel
+# 👋 Hi, I’m MUKTI PATEL
 
 ## 👀 I’m interested in ...
 - Software development, particularly in full-stack web development, machine learning, and cloud computing.
