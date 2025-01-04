@@ -15,6 +15,3 @@
 ## 📫 How to reach me ...
 - Email: mukti2216patel@example.com
 - LinkedIn: [linkedin.com/in/mukti2216patel](https://linkedin.com/in/mukti2216patel)
-
-## 😄 Pronouns: ...
-- She/Her
