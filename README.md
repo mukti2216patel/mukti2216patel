@@ -1,5 +1,14 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Mukti Patel 👋</h1>
+<!-- Typing Animation Header -->
+<h1 align="center">
+  Hi there, I'm Mukti Patel 👋  
+  <br/>
+  <a href="https://github.com/mukti2216patel">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Full+Stack+Developer;MERN+Stack+Learner;Java+%7C+DSA+%7C+DBMS+Fan;Always+Learning&center=true&width=500&height=50" alt="Typing SVG" />
+  </a>
+</h1>
+
+---
 
 <p align="center">
   <a href="mailto:mukti2216patel@gmail.com">
