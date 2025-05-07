@@ -1,12 +1,10 @@
 <!-- Profile Header -->
 <!-- Typing Animation Header -->
-<h1 align="center">
-  Hi there, I'm Mukti Patel 👋  
-  <br/>
-  <a href="https://github.com/mukti2216patel">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Full+Stack+Developer;MERN+Stack+Learner;Java+%7C+DSA+%7C+DBMS+Fan;Always+Learning&center=true&width=500&height=50" alt="Typing SVG" />
-  </a>
-</h1>
+<!-- Typing Animation Header with Styled Greeting -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Mukti+Patel+👋;Welcome+to+my+GitHub+Profile!;MERN+Stack+Learner+|+Java+Enthusiast+|+DSA+Fanatic&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=F75C7E" alt="Typing Animation" />
+</p>
+
 
 ---
 
