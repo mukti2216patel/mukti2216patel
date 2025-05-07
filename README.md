@@ -1,8 +1,9 @@
 <!-- Profile Header -->
 <!-- Typing Animation Header -->
 <!-- Typing Animation Header with Styled Greeting -->
+<!-- Corrected Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Mukti+Patel+👋;Welcome+to+my+GitHub+Profile!;MERN+Stack+Learner+|+Java+Enthusiast+|+DSA+Fanatic&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=F75C7E" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mukti+Patel+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;MERN+Stack+Learner+%7C+Java+Enthusiast+%7C+DSA+Fanatic" alt="Typing SVG" />
 </p>
 
 ---
