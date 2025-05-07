@@ -66,6 +66,11 @@
 <!-- Recent Activity -->
 ### 📌 Recent GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukti2216patel&theme=react-dark)
+<!-- Contribution Snake (Activity) -->
+### 📊 Contribution Snake
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/contributions.svg?username=mukti2216patel&theme=light" alt="Contribution Snake" />
+</p>
 
 ---
 
