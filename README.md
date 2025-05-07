@@ -37,9 +37,6 @@
 ---
 
 <!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mukti2216patel&theme=dark&hide_border=true" />
-</p>
 
 ---
 
