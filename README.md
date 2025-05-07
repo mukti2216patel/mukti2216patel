@@ -42,8 +42,10 @@
 
 <!-- Tech Stack -->
 ### 🛠 Tech Stack
+<!-- Tech Stack with Latest Icons -->
+### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,tailwind,python,mysql,mongodb,git,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,tailwindcss,python,mysql,mongodb,git,java,c,postgresql" />
 </p>
 
 ---
