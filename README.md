@@ -1,12 +1,8 @@
-<!-- Profile Header -->
-<!-- Typing Animation Header -->
-<!-- Typing Animation Header with Styled Greeting -->
 <!-- Corrected Typing Animation -->
+<!-- Typing Animation with Blue Theme -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mukti+Patel+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;MERN+Stack+Learner+%7C+Java+Enthusiast+%7C+DSA+Fanatic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F83F8&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mukti+Patel+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;MERN+Stack+Learner+%7C+Java+Enthusiast+%7C+DSA+Fanatic" alt="Typing SVG" />
 </p>
-
----
 
 <p align="center">
   <a href="mailto:mukti2216patel@gmail.com">
