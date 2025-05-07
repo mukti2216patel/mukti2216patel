@@ -1,6 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A passionate [Your Profession or Role] from [Your Country]</h3>
+<h1 align="center">Hi there, I'm Mukti Patel 👋</h1>
 
 <p align="center">
   <a href="mailto:mukti2216patel@gmail.com">
@@ -38,7 +37,7 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mukti2216patel&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -46,7 +45,7 @@
 <!-- Recent Activity (Optional) -->
 ### 📌 Recent GitHub Activity
 <!-- use GitHub Activity by Readme-Workflows -->
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mukti2216patel&theme=react-dark)
 
 ---
 
