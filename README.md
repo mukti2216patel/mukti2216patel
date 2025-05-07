@@ -1,8 +1,9 @@
 
-<!-- Typing Animation with Flash Effect -->
+<!-- Typing Animation with Cursor Blink Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mukti+Patel+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;MERN+Stack+Learner+|+Java+Enthusiast+|+DSA+Fanatic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mukti+Patel+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;MERN+Stack+Learner+|+Java+Enthusiast+|+DSA+Fanatic" alt="Typing SVG" />
 </p>
+
 
 
 <!-- Social Links -->
