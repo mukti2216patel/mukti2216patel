@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Mukti+Patel+👋;Welcome+to+my+GitHub+Profile!;MERN+Stack+Learner+|+Java+Enthusiast+|+DSA+Fanatic&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=F75C7E" alt="Typing Animation" />
 </p>
 
-
 ---
 
 <p align="center">
