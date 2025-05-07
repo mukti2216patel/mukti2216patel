@@ -45,7 +45,8 @@
 
 <!-- Recent Activity -->
 ### 📌 Recent GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mukti2216patel&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukti2216patel&theme=react-dark)
+
 
 ---
 
