@@ -2,9 +2,7 @@
 
 ## 👀 I’m interested in ...
 - Software development, particularly in full-stack web development, machine learning, and cloud computing.
-- Exploring new technologies like AI, blockchain, and IoT (Internet of Things).
-- Contributing to open-source projects and improving my problem-solving skills.
-
+- 
 ## 🌱 I’m currently learning ...
 - Full Stack Web Development
 
