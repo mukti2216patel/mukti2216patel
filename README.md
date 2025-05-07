@@ -14,23 +14,24 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukti2216patel&show_icons=true&theme=radical" alt="mukti2216patel stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukti2216patel&layout=compact&theme=radical" />
 </p>
 
 ---
 
 <!-- About Me Section -->
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning Mern stack devlopment.
-- 💬 Ask me about **DSA , DBMS , JAVA **
-- 📫 How to reach me: [mukti2216patel@gmail.com](mailto:your@email.com)
+- 🌱 I’m currently learning **MERN stack development**
+- 💬 Ask me about **DSA, DBMS, Java**
+- 📫 How to reach me: [mukti2216patel@gmail.com](mailto:mukti2216patel@gmail.com)
+
 ---
 
 <!-- Tech Stack -->
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,tailwind,python,mysql,mongodb,git,c,c++,java" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,tailwind,python,mysql,mongodb,git,c,cplusplus,java" />
 </p>
 
 ---
@@ -42,14 +43,13 @@
 
 ---
 
-<!-- Recent Activity (Optional) -->
+<!-- Recent Activity -->
 ### 📌 Recent GitHub Activity
-<!-- use GitHub Activity by Readme-Workflows -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mukti2216patel&theme=react-dark)
 
 ---
 
-<!-- Footer or Animated Signature -->
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
