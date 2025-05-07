@@ -36,9 +36,6 @@
 
 ---
 
-<!-- GitHub Streak -->
-
----
 
 <!-- Recent Activity -->
 ### 📌 Recent GitHub Activity
