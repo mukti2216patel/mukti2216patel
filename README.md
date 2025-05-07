@@ -1,7 +1,9 @@
-<!-- Typing Animation with Green Neon Theme -->
+
+<!-- Typing Animation with Flash Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mukti+Patel+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mukti+Patel+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;MERN+Stack+Learner+|+Java+Enthusiast+|+DSA+Fanatic" alt="Typing SVG" />
 </p>
+
 
 <!-- Social Links -->
 <p align="center">
@@ -42,11 +44,22 @@
 
 <!-- Tech Stack -->
 ### 🛠 Tech Stack
-<!-- Tech Stack with Latest Icons -->
-### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,tailwindcss,python,mysql,mongodb,git,java,c,postgresql" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
+
 
 ---
 
