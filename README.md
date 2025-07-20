@@ -1,11 +1,4 @@
-<!-- HEADER: Welcome Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00FF9F&center=true&vCenter=true&width=500&lines=Hey+I'm+Mukti+Patel+👋;Full-Stack+Learner+%7C+Java+Fan+%7C+Problem+Solver;Welcome+to+My+World+of+Code+💻" alt="Typing SVG" />
-</p>
 
----
-
-<!-- INTRO: "About Me" Section -->
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
