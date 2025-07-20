@@ -1,95 +1,76 @@
-
-<!-- Typing Animation with Cursor Blink Effect -->
+<!-- HEADER: Welcome Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Mukti+Patel+%F0%9F%91%8B;Welcome+To+My+GitHub+Profile!;MERN+Stack+Learner+|+Java+Enthusiast+|+DSA+Fanatic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00FF9F&center=true&vCenter=true&width=500&lines=Hey+I'm+Mukti+Patel+👋;Full-Stack+Learner+%7C+Java+Fan+%7C+Problem+Solver;Welcome+to+My+World+of+Code+💻" alt="Typing SVG" />
 </p>
 
+<!-- INTRO -->
+<h2 align="center">🌟 Who Am I?</h2>
 
+<p align="center">
+  Passionate developer with a love for solving algorithmic challenges, exploring backend technologies, and crafting dynamic full-stack web apps.
+</p>
 
-<!-- Social Links -->
+<p align="center">
+  I dive deep into <strong>MERN stack</strong> and <strong>Java-based backend systems</strong>, all while grinding <strong>DSA problems</strong> like a warrior 💪.
+</p>
+
+---
+
+<!-- TECH SNAPSHOT -->
+<h2 align="center">🛠️ My Toolbox</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,mysql,java,python,c,tailwind,git,postman" />
+</p>
+
+---
+
+<!-- GITHUB STATS -->
+<h2 align="center">📈 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukti2216patel&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukti2216patel&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+<h2 align="center">🔥 Activity Over Time</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukti2216patel&theme=rogue" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+<!-- LEETCODE + COMPETITIVE PROGRAMMING -->
+<h2 align="center">🏁 Competitive Programming</h2>
+<p align="center">
+  <a href="https://leetcode.com/u/mukti2216patel/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/mukti2216patel">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/mukti108p">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- CONTACT -->
+<h2 align="center">📬 Connect With Me</h2>
 <p align="center">
   <a href="mailto:mukti2216patel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/muktipatel">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/mukti2216patel">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/mukti108p">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/mukti2216patel/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-<!-- GitHub Stats -->
+<!-- FUN FOOTER -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukti2216patel&show_icons=true&theme=radical" alt="mukti2216patel stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukti2216patel&layout=compact&theme=radical" />
-</p>
-
----
-
-<!-- About Me Section -->
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **MERN stack development**
-- 💬 Ask me about **DSA, DBMS, Java**
-- 📫 How to reach me: [mukti2216patel@gmail.com](mailto:mukti2216patel@gmail.com)
-
----
-
-<!-- Tech Stack -->
-### 🛠 Tech Stack
-<p align="center">
- <!-- JavaScript, TypeScript, React -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-<!-- Black bg + neon blue logo for Redux -->
-<img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=39FFFC" />
-
-<!-- Node.js and Tailwind with brand colors -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-<!-- Black bg + white logo for Express to keep it balanced -->
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-<!-- Python and MySQL brand colors -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<!-- MongoDB brand green -->
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<!-- Git and Java brand colors -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-
-<!-- Black bg + neon blue logo for C -->
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=39FFFC" />
-
-<!-- Postman brand orange -->
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-</p>
-
-
----
-
-<!-- Recent Activity -->
-### 📌 Recent GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukti2216patel&theme=react-dark)
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:39FF14,100:0077FF&section=footer" />
 </p>
