@@ -35,11 +35,14 @@
 
 ---
 
-<!-- About Me Section -->
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **MERN stack development**
-- 💬 Ask me about **DSA, DBMS, Java**
-- 📫 How to reach me: [mukti2216patel@gmail.com](mailto:mukti2216patel@gmail.com)
+
+- 🚀 I’m a **MERN Stack Developer**.
+- 🎯 Currently expanding my skill set with **Java Full Stack Development**.
+- 🔍 Deeply interested in **Data Structures & Algorithms**, **Compititve Coding**.
+- 💡 Always eager to learn new technologies and solve challenging problems.
+- 📫 Feel free to reach out: [mukti2216patel@gmail.com](mailto:mukti2216patel@gmail.com)
+---
 
 ### Tech Stack 
 <p align="center">
