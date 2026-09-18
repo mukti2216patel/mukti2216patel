@@ -1,75 +1,87 @@
-<!-- Modern Typing SVG Animation Header -->
+<!-- Animated Matrix Rain Theme Banner Top -->
 <p align="center">
-  <img src="https://demolab.com+👋;Machine+Learning+Enthusiast;Full-Stack+MERN+Developer;Algorithmic+Problem+Solver" alt="Typing SVG" />
+  <img src="https://vercel.app" width="100%" alt="Animated Header Banner">
 </p>
 
-<!-- Dynamic Profile Header Layout -->
+<!-- Smooth Typewriter Text Animation -->
+<p align="center">
+  <img src="https://demolab.com👋+Welcome+to+my+Digital+Workspace!;⚡+Machine+Learning+Enthusiast;💻+Full-Stack+MERN+Developer;🧩+350%2B+LeetCode+DSA+Problems+Solved" alt="Typing effect">
+</p>
+
+---
+
+### 🎮 The Core Terminal
+
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="65%" valign="top">
-      <h3>🚀 Driven by Data, Architected for the Web</h3>
-      <p>I am a detail-oriented <b>Information Technology</b> student at <b>Dharmsinh Desai University</b> (Expected 2027) with a current <b>CPI of 8.64</b>. I specialize in building highly responsive full-stack applications and deploying robust, production-ready machine learning pipelines.</p>
+    <td width="60%" valign="top">
+      <img src="https://shields.io" alt="Status">
+      <p></p>
+      <p>I am a detail-oriented <b>Information Technology</b> engineer at <b>Dharmsinh Desai University</b> (Class of 2027) with a current <b>CPI of 8.64</b>. I design high-performance full-stack web platforms and implement automated, leakage-safe machine learning architectures.</p>
       <ul>
-        <li>🔭 <b>Current Focus:</b> Deep learning architectures & secure asynchronous backend logic.</li>
-        <li>🧩 <b>Problem Solving:</b> Solved <b>350+ DSA</b> and <b>50+ SQL</b> challenges on LeetCode (Peak Rating: <b>1553</b>).</li>
-        <li>🏆 <b>Distinctions:</b> Elite Top 5% in NPTEL DBMS, Elite in NPTEL C++, and DUHACKS 4.0 hacker.</li>
+        <li>🚀 <b>Active Sprint:</b> Tuning deep learning parameters & securing backend API systems.</li>
+        <li>🏆 <b>Rankings:</b> Elite Top 5% in NPTEL DBMS | Elite in NPTEL C++ | DUHACKS 4.0 Hacker.</li>
+        <li>🔥 <b>LeetCode Metrics:</b> 350+ DSA and 50+ SQL problems shattered (Highest Rating: <b>1553</b>).</li>
       </ul>
     </td>
-    <td width="35%" align="right" valign="top">
-      <!-- Modern Interactive Coding Animation -->
-      <img src="https://giphy.com" width="100%" style="border-radius: 10px;" alt="Coding Logic Animation">
+    <td width="40%" align="right" valign="top">
+      <!-- High FPS Loop Coding Animation -->
+      <img src="https://giphy.com" width="95%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,255,204,0.3);" alt="Asynchronous Coding Pipeline">
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Core Technology Stack
-Generated via `skillicons.dev` for a clean, cohesive, and modern dark-mode aesthetic.
+### ⚡ Animated Tech Infrastructure
+These reactive badges flash and pulse on hover inside your profile page layout.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="My Skills Stack" />
+    <img src="https://skillicons.dev" alt="Animated Core Stack Grid" />
   </a>
 </p>
 
 ---
 
-### 📂 Featured Implementations
+### 📂 Feature Logs & Implementations
 
 #### 🧠 Mental Health Score Analytics Platform
-* **Stack:** FastAPI, Scikit-learn, Pandas, Asynchronous JavaScript
-* Trained a production-grade **Random Forest Regressor** achieving an **87% R² score**.
-* Engineered a leakage-safe automated transformer pipeline addressing cross-validation bias vectors.
+* **Pipeline:** `FastAPI` | `Scikit-learn` | `Pandas` | `Asynchronous JS`
+* Optimized an automated **Random Forest Regressor** pipeline to cross an **87% R² threshold**.
+* Structured fully isolated input transformers, systematically blocking data leakage anomalies across validation steps.
 
 #### 🎵 Evenza — Event Management Ecosystem
-* **Stack:** MERN Stack (MongoDB, Express, React, Node.js), Tailwind CSS, OpenAI API, Recharts
-* Integrated granular **JWT & bcrypt** schema architectures supporting multi-tier vendor access rules.
-* Engineered interactive data engines visualizing dynamic fiscal reconciliation charts in real-time.
+* **Pipeline:** `MongoDB` | `Express.js` | `React.js` | `Node.js` | `Tailwind` | `OpenAI API`
+* Designed dynamic ledger views featuring real-time financial tracking charts built via **Recharts**.
+* Configured absolute route perimeters utilizing nested **JWT validation frameworks** and **bcrypt** token matching.
 
 ---
 
-### 📊 Modern Analytical Metrics
-These dynamic SVG widgets automatically recalculate your contribution weights and coding consistency daily.
+### 📊 Live Activity Graphs & Analytics
+*Note: If these widgets appear blank, it means your GitHub Username needs to be swapped into the code urls below.*
 
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats Summary" width="48%" />
-  <img src="https://herokuapp.com" alt="Contribution Streak Tracker" width="48%" />
+  <img src="https://vercel.app" alt="Dynamic Repository Dashboard" width="49%" />
+  <img src="https://herokuapp.com" alt="Streak Consistency Vector" width="49%" />
 </p>
 
-#### 📈 Interactive Contribution Profile
 <p align="center">
-  <img src="https://vercel.app" alt="Activity Trend Graph" width="100%" />
+  <img src="https://vercel.app" alt="Activity Wave Vector" width="100%" />
 </p>
 
 ---
 
-### 📬 Network & Connect
+### 📬 Establish Connection Mesh
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Match" />
+    <img src="https://shields.io" alt="Connect via LinkedIn" />
   </a>
   <a href="https://leetcode.com" target="_blank">
-    <img src="https://shields.io" alt="LeetCode Portfolio" />
+    <img src="https://shields.io" alt="Analyze LeetCode Portfolio" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Footer Wave">
 </p>
