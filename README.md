@@ -1,3 +1,9 @@
+<!-- Neon Green Word-by-Word Typing Animation Start -->
+<p align="center">
+  <img src="https://demolab.com" alt="Neon Green Typing Animation" />
+</p>
+<!-- Neon Green Word-by-Word Typing Animation End -->
+
 # 💫 About Me:
 👯 I'm looking to collaborate on : Open-source Full-Stack applications and smart Machine Learning pipelines<br>🤝 I'm looking for help with: Advanced Deep Learning optimization, model hyperparameter tuning, and API security<br>🌱 I'm currently learning: Production-grade MERN deployment workflows <br>💬 Ask me about: React, Node.js, MongoDB, FastAPI, Scikit-Learn, and Data Structures & Algorithms
 
