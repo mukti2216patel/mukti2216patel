@@ -1,27 +1,24 @@
-
 <!-- Typing Animation with Cursor Blink Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Mukti+Patel+%F0%9F%91%8B;Welcome+To+My+GitHub+Profile!;MERN+Stack+Learner+|+Java+Enthusiast+|+DSA+Fanatic" alt="Typing SVG" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
-
-
 
 <!-- Social Links -->
 <p align="center">
   <a href="mailto:mukti2216patel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://shields.io" />
   </a>
-  <a href="https://linkedin.com/in/muktipatel">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" />
   </a>
-  <a href="https://codeforces.com/profile/mukti2216patel">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="https://codeforces.com">
+    <img src="https://shields.io" />
   </a>
-  <a href="https://www.codechef.com/users/mukti108p">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <a href="https://codechef.com">
+    <img src="https://shields.io" />
   </a>
-  <a href="https://leetcode.com/u/mukti2216patel/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://leetcode.com">
+    <img src="https://shields.io" />
   </a>
 </p>
 
@@ -29,62 +26,63 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukti2216patel&show_icons=true&theme=radical" alt="mukti2216patel stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukti2216patel&layout=compact&theme=radical" />
+  <img src="https://vercel.app" alt="mukti2216patel stats" />
+  <img src="https://vercel.app" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🚀 I’m a **MERN Stack Developer**.
-- 🎯 Currently expanding my skill set with **Java Full Stack Development**.
-- 🔍 Deeply interested in **Data Structures & Algorithms**, **Compititve Coding**.
-- 💡 Always eager to learn new technologies and solve challenging problems.
-- 📫 Feel free to reach out: [mukti2216patel@gmail.com](mailto:mukti2216patel@gmail.com)
+- Final Year IT Student at Dharmsinh Desai University (DDU).
+- Specialized in MERN Stack Development and AI/ML Engineering.
+- Math-first problem solver with strong skills in Data Structures and Algorithms.
+- Competitive Programming: LeetCode (Max Rating: 1556) | CodeChef 2-Star (mukti108p).
+- Passionate about building intelligent, data-driven web products from scratch.
+- Feel free to reach out: mukti2216patel@gmail.com
+
 ---
 
 ### Tech Stack 
 <p align="center">
   <!-- JavaScript, TypeScript, React -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 
   <!-- Node.js, Tailwind CSS, Express -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 
-  <!-- Python, MySQL, MongoDB -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <!-- Python, Scikit-Learn, Pandas -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+
+  <!-- Databases -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 
   <!-- Git, Java, C -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=39FFFC" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 
-  <!-- Postman -->
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  
+  <!-- Postman & Frameworks -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
-
-
 
 ---
 
 <!-- Recent Activity -->
-### 📌 Recent GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukti2216patel&theme=react-dark)
+### Recent GitHub Activity
+![GitHub Activity Graph](https://vercel.app)
 
 ---
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://vercel.app"/>
 </p>
