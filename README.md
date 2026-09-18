@@ -1,8 +1,4 @@
-<!-- Neon Green Word-by-Word Typing Animation Start -->
-<p align="center">
-  <img src="https://demolab.com" alt="Neon Green Typing Animation" />
-</p>
-<!-- Neon Green Word-by-Word Typing Animation End -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There+!+I+am+Mukti+Patel" alt="Typing SVG" /></a>
 
 # 💫 About Me:
 👯 I'm looking to collaborate on : Open-source Full-Stack applications and smart Machine Learning pipelines<br>🤝 I'm looking for help with: Advanced Deep Learning optimization, model hyperparameter tuning, and API security<br>🌱 I'm currently learning: Production-grade MERN deployment workflows <br>💬 Ask me about: React, Node.js, MongoDB, FastAPI, Scikit-Learn, and Data Structures & Algorithms
