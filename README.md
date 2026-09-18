@@ -1,25 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F760&center=true&vCenter=true&width=435&lines=Hi+There+!+I+am+Mukti+Patel" alt="Typing SVG" /></a>
 
-<!-- Profile Header Layout -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>🚀 Driven by Data, Architected for the Web</h3>
-      <p>I am a detail-oriented <b>Information Technology</b> student at <b>Dharmsinh Desai University</b> (Expected 2027) with a current <b>CPI of 8.64</b>. I focus on developing clean full-stack web architectures and engineering reliable data modeling pipelines.</p>
-      <ul>
-        <li>🔭 <b>I'm currently working on:</b> Evenza - An Event Management Platform powered by MERN stack and OpenAI API.</li>
-        <li>👯 <b>I'm looking to collaborate on:</b> Open-source Full-Stack applications and smart Machine Learning pipelines.</li>
-        <li>🤝 <b>I'm looking for help with:</b> Advanced Deep Learning optimization, model hyperparameter tuning, and API security.</li>
-        <li>🌱 <b>I'm currently learning:</b> Production-grade MERN deployment workflows and scalable backend microservices.</li>
-        <li>💬 <b>Ask me about:</b> React, Node.js, MongoDB, FastAPI, Scikit-Learn, and Data Structures & Algorithms.</li>
-      </ul>
-    </td>
-    <td width="35%" align="right" valign="top">
-      <!-- Clean Side Coding Animation Loop -->
-      <img src="https://giphy.com" width="95%" style="border-radius: 8px;" alt="Coding Progress Animation">
-    </td>
-  </tr>
-</table>
+# 💫 About Me:
+👯 I'm looking to collaborate on : Open-source Full-Stack applications and smart Machine Learning pipelines<br>🤝 I'm looking for help with: Advanced Deep Learning optimization, model hyperparameter tuning, and API security<br>🌱 I'm currently learning: Production-grade MERN deployment workflows <br>💬 Ask me about: React, Node.js, MongoDB, FastAPI, Scikit-Learn, and Data Structures & Algorithms
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukti-patel-a24b982a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukti2216patel@gmail.com) 
