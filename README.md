@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F760&center=true&vCenter=true&width=435&lines=Hi+There+!+I+am+Mukti+Patel" alt="Typing SVG" /></a>
 
 ### 💫 About Me:
-🌱 I'm currently learning: Generative AI and production-grade MERN deployment workflows.
-👯 I'm looking to collaborate on: Open-source Full-Stack applications and smart Machine Learning pipelines.
-💬 Ask me about: React, Node.js, MongoDB, FastAPI, Scikit-Learn, and Data Structures & Algorithms.
+- 🌱 I'm currently learning: Generative AI and production-grade MERN deployment workflows.
+- 👯 I'm looking to collaborate on: Open-source Full-Stack applications and smart Machine Learning pipelines.
+- 💬 Ask me about: React, Node.js, MongoDB, FastAPI, Scikit-Learn, and Data Structures & Algorithms.
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukti-patel-a24b982a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukti2216patel@gmail.com) 
