@@ -1,5 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F760&center=true&vCenter=true&width=435&lines=Hi+There+!+I+am+Mukti+Patel" alt="Typing SVG" /></a>
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F760&center=true&vCenter=true&width=435&lines=Hi+There+!+I+am+Mukti+Patel" alt="Typing SVG" />
+  </a>
+</div>
 ### 💫 About Me:
 - 🌱 I'm currently learning: Generative AI and production-grade MERN deployment workflows.
 - 👯 I'm looking to collaborate on: Open-source Full-Stack applications and smart Machine Learning pipelines.
